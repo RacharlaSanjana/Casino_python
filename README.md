@@ -1,25 +1,40 @@
 # Casino_python
-Slot Machine Game
+## Slot Machine Game
 This is a simple command-line-based slot machine game built using Python 3. The game uses the random library to randomly generate symbols and playsound library to play sound when the slot machine is played.
 
-How to Play
+## How to Play
 1.Run the slot_machine.py file in the terminal using the command python slot_machine.py.
+
 2.Enter the amount you would like to deposit to start playing.
+
 3.Enter the number of lines you would like to bet on (1-3).
+
 4.Enter the amount you would like to bet on each line.
+
 5.The slot machine will display the symbols and show if you won or lost.
-Game Rules
-1.The slot machine has 3 rows and 3 columns.
-2.The symbols used in the game are:
+
+## Game Rules
+.The slot machine has 3 rows and 3 columns.
+
+.The symbols used in the game are:
+
 😂 (value of 5)
+
 💎 (value of 4)
+
 😭 (value of 3)
+
 ☠️ (value of 2)
-3.The maximum number of lines that can be bet on is 3.
-4.The maximum bet amount is $100 and the minimum bet amount is $1.
-5.The game calculates winnings based on the symbols that appear on the bet lines.
-6.The game uses the playsound library to play a sound when the slot machine is played.
-Example Output
+
+.The maximum number of lines that can be bet on is 3.
+
+.The maximum bet amount is $100 and the minimum bet amount is $1.
+
+.The game calculates winnings based on the symbols that appear on the bet lines.
+
+.The game uses the playsound library to play a sound when the slot machine is played.
+
+## Example Output
 
 Welcome to MAAS CASINO
 Make your day with our slot machine
