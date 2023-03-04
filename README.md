@@ -14,9 +14,9 @@ This is a simple command-line-based slot machine game built using Python 3. The 
 5.The slot machine will display the symbols and show if you won or lost.
 
 ## Game Rules
-*The slot machine has 3 rows and 3 columns.
+* The slot machine has 3 rows and 3 columns.
 
-*The symbols used in the game are:
+* The symbols used in the game are:
 
 😂 (value of 5)
 
@@ -26,13 +26,13 @@ This is a simple command-line-based slot machine game built using Python 3. The 
 
 ☠️ (value of 2)
 
-*The maximum number of lines that can be bet on is 3.
+* The maximum number of lines that can be bet on is 3.
 
-*The maximum bet amount is $100 and the minimum bet amount is $1.
+* The maximum bet amount is $100 and the minimum bet amount is $1.
 
-*The game calculates winnings based on the symbols that appear on the bet lines.
+* The game calculates winnings based on the symbols that appear on the bet lines.
 
-*The game uses the playsound library to play a sound when the slot machine is played.
+* The game uses the playsound library to play a sound when the slot machine is played.
 
 ## Example Output
 
